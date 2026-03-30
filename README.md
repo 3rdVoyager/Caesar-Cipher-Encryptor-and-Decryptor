@@ -1,4 +1,5 @@
 CaesarCracker
+
 A Caesar cipher encryption and decryption tool written in Python. Supports standard encryption and decryption with a known shift, as well as a brute-force decryption mode for messages with an unknown shift.
 
 Features
