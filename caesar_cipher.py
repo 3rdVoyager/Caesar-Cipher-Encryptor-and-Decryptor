@@ -1,4 +1,4 @@
-print("Welcome to the Caesar Cipher Encryptor and Decryptor! This program allows you to encrypt and decrypt messages using the Caesar cipher. It also includes a feature to attempt to decrypt messages with an unknown shift by trying all possible shifts and checking for plausibility based on common words and letter patterns.")
+print("Welcome to CaesarCracker! This program allows you to encrypt and decrypt messages using the Caesar cipher. It also includes a feature to attempt to decrypt messages with an unknown shift by trying all possible shifts and checking for plausibility based on common words and letter patterns.")
 
 # Function to get user input for mode, message, and shift
 def get_input():
